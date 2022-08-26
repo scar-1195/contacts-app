@@ -9,5 +9,3 @@ CREATE TABLE contacts (
   name VARCHAR(255),
   phone_number VARCHAR(255)
 );
-
-INSERT INTO contacts (name, phone_number) VALUES ("Cartman", "1234567890");
